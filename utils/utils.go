@@ -9,7 +9,7 @@ import (
 	"net"
 	"strings"
 
-	"github.com/patrickhener/goshs/logger"
+	"github.com/aWZHY0yQH81uOYvH/goshs/logger"
 )
 
 // ByteCountDecimal generates human readable file sizes and returns a string

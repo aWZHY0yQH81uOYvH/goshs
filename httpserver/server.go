@@ -8,10 +8,10 @@ import (
 	"crypto/tls"
 
 	"github.com/gorilla/mux"
-	"github.com/patrickhener/goshs/ca"
-	"github.com/patrickhener/goshs/clipboard"
-	"github.com/patrickhener/goshs/logger"
-	"github.com/patrickhener/goshs/ws"
+	"github.com/aWZHY0yQH81uOYvH/goshs/ca"
+	"github.com/aWZHY0yQH81uOYvH/goshs/clipboard"
+	"github.com/aWZHY0yQH81uOYvH/goshs/logger"
+	"github.com/aWZHY0yQH81uOYvH/goshs/ws"
 	"golang.org/x/net/webdav"
 )
 

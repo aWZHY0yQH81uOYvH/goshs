@@ -11,9 +11,9 @@ import (
 	"syscall"
 	"time"
 
-	"github.com/patrickhener/goshs/httpserver"
-	"github.com/patrickhener/goshs/logger"
-	"github.com/patrickhener/goshs/utils"
+	"github.com/aWZHY0yQH81uOYvH/goshs/httpserver"
+	"github.com/aWZHY0yQH81uOYvH/goshs/logger"
+	"github.com/aWZHY0yQH81uOYvH/goshs/utils"
 )
 
 const goshsVersion = "v0.3.2"

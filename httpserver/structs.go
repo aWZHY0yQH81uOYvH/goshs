@@ -4,8 +4,8 @@ import (
 	"html/template"
 	"time"
 
-	"github.com/patrickhener/goshs/clipboard"
-	"github.com/patrickhener/goshs/ws"
+	"github.com/aWZHY0yQH81uOYvH/goshs/clipboard"
+	"github.com/aWZHY0yQH81uOYvH/goshs/ws"
 )
 
 type indexTemplate struct {

@@ -13,9 +13,9 @@ import (
 	"sort"
 	"strings"
 
-	"github.com/patrickhener/goshs/logger"
-	"github.com/patrickhener/goshs/utils"
-	"github.com/patrickhener/goshs/ws"
+	"github.com/aWZHY0yQH81uOYvH/goshs/logger"
+	"github.com/aWZHY0yQH81uOYvH/goshs/utils"
+	"github.com/aWZHY0yQH81uOYvH/goshs/ws"
 )
 
 // static will give static content for style and function

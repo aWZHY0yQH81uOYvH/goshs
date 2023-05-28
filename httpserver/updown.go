@@ -13,7 +13,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/patrickhener/goshs/logger"
+	"github.com/aWZHY0yQH81uOYvH/goshs/logger"
 )
 
 // upload handles the POST request to upload files

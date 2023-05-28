@@ -1,4 +1,4 @@
-module github.com/patrickhener/goshs
+module github.com/aWZHY0yQH81uOYvH/goshs
 
 go 1.19
 

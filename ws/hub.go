@@ -1,7 +1,7 @@
 package ws
 
 import (
-	"github.com/patrickhener/goshs/clipboard"
+	"github.com/aWZHY0yQH81uOYvH/goshs/clipboard"
 )
 
 // Hub maintains the set of active clients and broadcasts messages to the
